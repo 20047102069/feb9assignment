@@ -1,0 +1,12 @@
+a=int(input())
+b=int(input())
+if (a>b):
+    print('a is big')
+else:
+    print('b is big')
+    
+    
+   Output:
+   25
+   10
+   a is big 
